@@ -3,7 +3,7 @@ This repo is created for the task from Scrive.
 
 Created with Selenium using Python 3.8.
 
-
+IN ORDER TO USE THE DRIVERS, YOU SHOULD DOWNLOAD 'GECKO DRIVER', 'CHROME DRIVER' TO YOUR LOCAL AND CHANGE THE PATH IN FRAMEWORK AS YOUR OWN SPECIFIC PATH!
 
 **Please execute the commands in CLI before setting up project to your local**
 
