@@ -31,7 +31,6 @@ configuration.properties --> Created for configuring the properties such as brow
 
 ***Important***
 
-**test without framework.py file only created for running the scripts in one file
-
+**test without framework.py** file only created for running the scripts in one file
 
 by f3ktr
