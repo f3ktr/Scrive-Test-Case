@@ -6,7 +6,9 @@ Created with Selenium using Python 3.8.
 **Please execute the commands in CLI before setting up project to your local**
 
 install pip
+
 pip install -U selenium
+
 pip install pillow
 
 **Directories:**
